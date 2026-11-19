@@ -1,0 +1,27 @@
+{
+  "client_details": {
+    "company_name": "Interio",
+    "phone_number": "(+91) 98765 43210",
+    "address": "Interio, 4th Floor, Sigma Towers,Bangalore, India",
+    "email":"support@interio.com",
+    "client_name_for_wb":"ien26297",
+    "client_project_name_for_wb":"ien26297"
+  },
+  "social_media_details": {
+    "facebook": "",
+    "instagram": "",
+    "linkedin": "",
+    "twitter": "",
+    "youtube": "",
+    "pinterest": ""
+  },
+  "theme_colors_details": {
+      "primary": "",
+      "secondary": "",
+      "light": "",
+      "bg": "",
+      "border": "",
+      "accent":"",
+      "text":""
+  }
+}
